@@ -11,8 +11,16 @@ Challenge of array manipulation.
 
 ## Usage <a name = "usage"></a>
 
-Run the project with:
+To run the project you need install dependencies with:
+
+```
+yarn
+```
+
+And then you run:
 
 ```
 node shift.js
 ```
+
+The result should be expected on terminal.
